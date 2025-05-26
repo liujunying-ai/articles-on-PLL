@@ -3,7 +3,7 @@ Partial label learning (PLL) is also known as superset label learning, ambiguous
 
 **Category**: Standard PLL; Deep PLL; Instance-Dependent PLL; Imbalanced/Long-tailed PLL; Semi-Supervised PLL; Metric Learning; Dimensionality Reduction; Feature Selection; Feature Augmentation; Label-Specific Features; Multi-view PLL; Active PLL; Online PLL; Few-Shot PLL; Multi-task/Transfer/Federated PLL; General/Unreliable PLL; Multi-instance PLL; Multi-Dimensional PLL; Application 
 
-**Note**: We intentionally filtered out all studies about partial multi-label learning.
+**Note**: We intentionally filtered out all studies about [partial multi-label learning](https://github.com/jiabinbin-ai/articles-on-PML/), which can be regarded as a multi-label extension of PLL.
 
 1. 	\[**Standard PLL**\] Rong Jin, Zoubin Ghahramani: Learning with Multiple Labels. NIPS 2002: 897-904
 2. 	\[**Standard PLL**\] Eyke Hüllermeier, Jürgen Beringer: Learning from Ambiguously Labeled Examples. IDA 2005: 168-179
