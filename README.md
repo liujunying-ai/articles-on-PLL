@@ -130,7 +130,7 @@ Partial label learning (PLL) is also known as superset label learning, ambiguous
 123. \[**Standard PLL**\] Yuheng Jia, Chongjie Si, Min-Ling Zhang: Complementary Classifier Induced Partial Label Learning. KDD 2023: 974-983
 124. \[**Standard PLL**\] Yuheng Jia, Fuchao Yang, Yongqiang Dong: Partial Label Learning with Dissimilarity Propagation guided Candidate Label Shrinkage. NeurIPS 2023
 125. \[*Multi-instance PLL*\] Wei Tang, Weijia Zhang, Min-Ling Zhang: Disambiguated Attention Embedding for Multi-Instance Partial-Label Learning. NeurIPS 2023
-126. \[*Unreliable PLL*\] Mingyu Xu, Zheng Lian, Lei Feng, Bin Liu, Jianhua Tao: ALIM: Adjusting Label Importance Mechanism for Noisy Partial Label Learning. NeurIPS 2023
+126. \[*General/Unreliable PLL*\] Mingyu Xu, Zheng Lian, Lei Feng, Bin Liu, Jianhua Tao: ALIM: Adjusting Label Importance Mechanism for Noisy Partial Label Learning. NeurIPS 2023
 127. \[*Feature Selection*\] Wenbin Qian, Jinfei Ding, Yihui Li, Jintao Huang: Label disambiguation-based feature selection for partial label learning via fuzzy dependency and feature discernibility. Appl. Soft Comput. 161: 111692 (2024)
 128. \[**Standard PLL**\] Hongyan Li, Zhonglin Wan, Chi-Man Vong: Multi-kernel partial label learning using graph contrast disambiguation. Appl. Intell. 54(20): 9760-9782 (2024)
 129. \[*Deep PLL*\] Haixiang Li, Min Fang, Xiao Li, Bo Chen: An adaptive class prototype generation framework for partial label learning. Eng. Appl. Artif. Intell. 133: 108178 (2024)
@@ -146,37 +146,40 @@ Partial label learning (PLL) is also known as superset label learning, ambiguous
 139. \[*Active PLL*\] Fei Zhang, Yunjie Ye, Lei Feng, Zhongwen Rao, Jieming Zhu, Marcus Kalander, Chen Gong, Jianye Hao, Bo Han: Exploiting counter-examples for active learning with partial labels. Mach. Learn. 113(6): 3849-3868 (2024)
 140. \[**Standard PLL**\] Yuhang Tian, Xin Niu, Jing Chai: Partial label learning via weighted centroid clustering disambiguation. Neurocomputing 604: 128312 (2024)
 141. \[*Multi-task/Transfer/Federated PLL*\] Liang Zhao, Yanshan Xiao, Bo Liu: Partial label learning with heterogeneous domain adaptation. Neurocomputing 594: 127822 (2024)
-142. \[*Deep PLL*\] Xiaotong Yu, Shiding Sun, Yingjie Tian: Self-distillation and self-supervision for partial label learning. Pattern Recognit. 146: 110016 (2024)
-143. \[*Multi-instance PLL*\] Wei Tang, Weijia Zhang, Min-Ling Zhang: Multi-instance partial-label learning: towards exploiting dual inexact supervision. Sci. China Inf. Sci. 67(3) (2024)
-144. \[*Deep PLL*\] Wei-Xuan Bao, Yong Rui, Min-Ling Zhang: Disentangled Partial Label Learning. AAAI 2024: 11007-11015
-145. \[*Application*\] Haoran Jiang, Zhihao Sun, Yingjie Tian: Navigating Real-World Partial Label Learning: Unveiling Fine-Grained Images with Attributes. AAAI 2024: 12874-12882
-146. \[*Imbalanced/Long-tailed PLL*\] Yuheng Jia, Xiaorui Peng, Ran Wang, Min-Ling Zhang: Long-Tailed Partial Label Learning by Head Classifier and Tail Classifier Cooperation. AAAI 2024: 12857-12865
-147. \[**Standard PLL**\] \[*Meta Strategy*\] Chongjie Si, Zekun Jiang, Xuehui Wang, Yan Wang, Xiaokang Yang, Wei Shen: Partial Label Learning with a Partner. AAAI 2024: 15029-15037
-148. \[*Instance-Dependent PLL*\] Dong-Dong Wu, Deng-Bao Wang, Min-Ling Zhang: Distilling Reliable Knowledge for Instance-Dependent Partial Label Learning. AAAI 2024: 15888-15896
-149. \[*Multi-task/Transfer/Federated PLL*\] Yan Yan, Yuhong Guo: Federated Partial Label Learning with Local-Adaptive Augmentation and Regularization. AAAI 2024: 16272-16280
-150. \[*Imbalanced/Long-tailed PLL*\] Mingyu Xu, Zheng Lian, Bin Liu, Zerui Chen, Jianhua Tao: Pseudo Labels Regularization for Imbalanced Partial-Label Learning. ICASSP 2024: 6305-6309
-151. \[*Multi-instance PLL*\] Yin-Fang Yang, Wei Tang, Min-Ling Zhang: PROMIPL: A Probabilistic Generative Model for Multi-Instance Partial-Label Learning. ICDM 2024: 560-569
-152. \[*Deep PLL*\] \[*Meta Strategy*\] Shuo He, Chaojie Wang, Guowu Yang, Lei Feng: Candidate Label Set Pruning: A Data-centric Perspective for Deep Partial-label Learning. ICLR 2024
-153. \[*Deep PLL*\] Xiuwen Gong, Nitin Bisht, Guandong Xu: Does Label Smoothing Help Deep Partial Label Learning? ICML 2024
-154. \[*Semi-Supervised PLL*\] Yangfan Liu, Jiaqi Lv, Xin Geng, Ning Xu: Learning with Partial-Label and Unlabeled Data: A Uniform Treatment for Supervision Redundancy and Insufficiency. ICML 2024
-155. \[*Multi-instance PLL*\] Wei Tang, Weijia Zhang, Min-Ling Zhang: Exploiting Conjugate Label Information for Multi-Instance Partial-Label Learning. IJCAI 2024: 4973-4981
-156. \[*Semi-Supervised PLL*\] Chengkun Liu, Jun Zhang, Jing Chai: Confidence-Driven Semi-Supervised Partial Label Learning. IJCNN 2024: 1-8
-157. \[*Application*\] Jiaguo Yuan, Hang Gao, Fengge Wu, Junsuo Zhao: Learning Node Representations Under Partial Label Learning. IJCNN 2024: 1-8
-158. \[*Semi-Supervised PLL*\] Jiahao Jiang, Yuheng Jia, Hui Liu, Junhui Hou: FairMatch: Promoting Partial Label Learning by Unlabeled Samples. KDD 2024: 1269-1278
-159. \[*Deep PLL*\] \[*Empirical Study*\] Jiaqi Lv, Yangfan Liu, Shiyu Xia, Ning Xu, Miao Xu, Gang Niu, Min-Ling Zhang, Masashi Sugiyama, Xin Geng: What Makes Partial-Label Learning Algorithms Effective? NeurIPS 2024
-160. \[*Multi-instance PLL*\] Wei Tang, Yin-Fang Yang, Zhaofei Wang, Weijia Zhang, Min-Ling Zhang: Multi-Instance Partial-Label Learning with Margin Adjustment. NeurIPS 2024
-161. \[*Application*\] Qing He, Yuji Wang, Nisuo Du, Shuyi Wang, Song Jing: Real-PiCO: Partial label learning with contrasting label disambiguation for EEG emotion recognition in Real-World scenarios. Biomed. Signal Process. Control. 105: 107635 (2025)
-162. \[*Application*\] Xiaoyu Tian, Fulin Luo, Chuan Fu, Tan Guo, Bo Du, Jocelyn Chanussot: MAGS: Max-Gap Loss-Guided Siamese-Reconstruction Network for Hyperspectral Image Partial Label Learning. IEEE Trans. Geosci. Remote. Sens. 63: 1-13 (2025)
-163. \[*Deep PLL*\] Jinfu Fan, Linqing Huang, Chaoyu Gong, Yang You, Min Gan, Zhongjie Wang: KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning. IEEE Trans. Neural Networks Learn. Syst. 36(2): 2789-2800 (2025)
-164. \[*Feature Selection*\] Wenbin Qian, Junqi Li, Xinxin Cai, Jintao Huang, Weiping Ding: Granular ball-based partial label feature selection via fuzzy correlation and redundancy. Inf. Sci. 709: 122047 (2025)
-165. \[*Feature Selection*\] Junqi Li, Wenbin Qian, Wenji Yang, Suxuan Liu, Jintao Huang: Fuzzy neighborhood-based partial label feature selection via label iterative disambiguation. Int. J. Approx. Reason. 179: 109358 (2025)
-166. \[*Imbalanced/Long-tailed PLL*\] Zhenbing Liu, Zhaoyuan Zhang, Haoxiang Lu, Wenhao Wang: Addressing bayes imbalance in partial label learning via range adaptive graph guided disambiguation. Neurocomputing 627: 129606 (2025)
-167. \[*Deep PLL*\] Guangtai Wang, Jintao Huang, Yiqiang Lai, Chi-Man Vong: Dealing with partial labels by knowledge distillation. Pattern Recognit. 158: 110965 (2025)
-168. \[*Deep PLL*\] Beibei Li, Yiyuan Zheng, Beihong Jin, Tao Xiang, Haobo Wang, Lei Feng: AsyCo: an asymmetric dual-task co-training model for partial-label learning. Sci. China Inf. Sci. 68(5) (2025)
-169. \[*Deep PLL*\] \[*Meta Strategy*\] Xiuwen Gong, Nitin Bisht, Guandong Xu: Conformal Prediction for Partial Label Learning. AAAI 2025: 16862-16870
-170. \[*Multi-view PLL*\]Qiuru Hai, Yongjian Deng, Yuena Lin, Zheng Li, Zhen Yang, Gengyu Lyu: CFDM: Contrastive Fusion and Disambiguation for Multi-View Partial-Label Learning. AAAI 2025: 17005-17013
-171. \[*Imbalanced/Long-tailed PLL*\] Jintao Huang, Yiu-ming Cheung, Chi-Man Vong, Wenbin Qian: GBRIP: Granular Ball Representation for Imbalanced Partial Label Learning. AAAI 2025: 17431-17439
-172. \[*Instance-Dependent PLL*\] Yizhi Wang, Weijia Zhang, Min-Ling Zhang: Partial Label Causal Representation Learning for Instance-Dependent Supervision and Domain Generalization. AAAI 2025: 21366-21374
-173. \[*Multi-instance PLL*\] Yin-Fang Yang, Wei Tang, Min-Ling Zhang: Fast Multi-Instance Partial-Label Learning. AAAI 2025: 22038-22046
-174. \[*Deep PLL*\] \[*Empirical Study*\] Wei Wang, Dong-Dong Wu, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama: Realistic Evaluation of Deep Partial-Label Learning Algorithms. ICLR 2025
-175. \[*Instance-Dependent PLL*\] Fuchao Yang, Jianhong Cheng, Hui Liu, Yongqiang Dong, Yuheng Jia, Junhui Hou: Mixed Blessing: Class-Wise Embedding guided Instance-Dependent Partial Label Learning. KDD (1) 2025: 1763-1772
+142. \[*Feature Selection*\] Wenbin Qian, Jiale Liu, Wenji Yang, Jintao Huang, Weiping Ding: Partial label feature selection based on noisy manifold and label distribution. Pattern Recognit. 156: 110791 (2024)
+143. \[*Deep PLL*\] Xiaotong Yu, Shiding Sun, Yingjie Tian: Self-distillation and self-supervision for partial label learning. Pattern Recognit. 146: 110016 (2024)
+144. \[*Multi-instance PLL*\] Wei Tang, Weijia Zhang, Min-Ling Zhang: Multi-instance partial-label learning: towards exploiting dual inexact supervision. Sci. China Inf. Sci. 67(3) (2024)
+145. \[*Deep PLL*\] Wei-Xuan Bao, Yong Rui, Min-Ling Zhang: Disentangled Partial Label Learning. AAAI 2024: 11007-11015
+146. \[*Application*\] Haoran Jiang, Zhihao Sun, Yingjie Tian: Navigating Real-World Partial Label Learning: Unveiling Fine-Grained Images with Attributes. AAAI 2024: 12874-12882
+147. \[*Imbalanced/Long-tailed PLL*\] Yuheng Jia, Xiaorui Peng, Ran Wang, Min-Ling Zhang: Long-Tailed Partial Label Learning by Head Classifier and Tail Classifier Cooperation. AAAI 2024: 12857-12865
+148. \[**Standard PLL**\] \[*Meta Strategy*\] Chongjie Si, Zekun Jiang, Xuehui Wang, Yan Wang, Xiaokang Yang, Wei Shen: Partial Label Learning with a Partner. AAAI 2024: 15029-15037
+149. \[*Instance-Dependent PLL*\] Dong-Dong Wu, Deng-Bao Wang, Min-Ling Zhang: Distilling Reliable Knowledge for Instance-Dependent Partial Label Learning. AAAI 2024: 15888-15896
+150. \[*Multi-task/Transfer/Federated PLL*\] Yan Yan, Yuhong Guo: Federated Partial Label Learning with Local-Adaptive Augmentation and Regularization. AAAI 2024: 16272-16280
+151. \[*Imbalanced/Long-tailed PLL*\] Mingyu Xu, Zheng Lian, Bin Liu, Zerui Chen, Jianhua Tao: Pseudo Labels Regularization for Imbalanced Partial-Label Learning. ICASSP 2024: 6305-6309
+152. \[*Multi-instance PLL*\] Yin-Fang Yang, Wei Tang, Min-Ling Zhang: PROMIPL: A Probabilistic Generative Model for Multi-Instance Partial-Label Learning. ICDM 2024: 560-569
+153. \[*Deep PLL*\] \[*Meta Strategy*\] Shuo He, Chaojie Wang, Guowu Yang, Lei Feng: Candidate Label Set Pruning: A Data-centric Perspective for Deep Partial-label Learning. ICLR 2024
+154. \[*Deep PLL*\] Xiuwen Gong, Nitin Bisht, Guandong Xu: Does Label Smoothing Help Deep Partial Label Learning? ICML 2024
+155. \[*Semi-Supervised PLL*\] Yangfan Liu, Jiaqi Lv, Xin Geng, Ning Xu: Learning with Partial-Label and Unlabeled Data: A Uniform Treatment for Supervision Redundancy and Insufficiency. ICML 2024
+156. \[*Multi-instance PLL*\] Wei Tang, Weijia Zhang, Min-Ling Zhang: Exploiting Conjugate Label Information for Multi-Instance Partial-Label Learning. IJCAI 2024: 4973-4981
+157. \[*Semi-Supervised PLL*\] Chengkun Liu, Jun Zhang, Jing Chai: Confidence-Driven Semi-Supervised Partial Label Learning. IJCNN 2024: 1-8
+158. \[*Application*\] Jiaguo Yuan, Hang Gao, Fengge Wu, Junsuo Zhao: Learning Node Representations Under Partial Label Learning. IJCNN 2024: 1-8
+159. \[*Semi-Supervised PLL*\] Jiahao Jiang, Yuheng Jia, Hui Liu, Junhui Hou: FairMatch: Promoting Partial Label Learning by Unlabeled Samples. KDD 2024: 1269-1278
+160. \[*Deep PLL*\] \[*Empirical Study*\] Jiaqi Lv, Yangfan Liu, Shiyu Xia, Ning Xu, Miao Xu, Gang Niu, Min-Ling Zhang, Masashi Sugiyama, Xin Geng: What Makes Partial-Label Learning Algorithms Effective? NeurIPS 2024
+161. \[*Multi-instance PLL*\] Wei Tang, Yin-Fang Yang, Zhaofei Wang, Weijia Zhang, Min-Ling Zhang: Multi-Instance Partial-Label Learning with Margin Adjustment. NeurIPS 2024
+162. \[*Application*\] Qing He, Yuji Wang, Nisuo Du, Shuyi Wang, Song Jing: Real-PiCO: Partial label learning with contrasting label disambiguation for EEG emotion recognition in Real-World scenarios. Biomed. Signal Process. Control. 105: 107635 (2025)
+163. \[*Application*\] Xiaoyu Tian, Fulin Luo, Chuan Fu, Tan Guo, Bo Du, Jocelyn Chanussot: MAGS: Max-Gap Loss-Guided Siamese-Reconstruction Network for Hyperspectral Image Partial Label Learning. IEEE Trans. Geosci. Remote. Sens. 63: 1-13 (2025)
+164. \[*Deep PLL*\] Jinfu Fan, Linqing Huang, Chaoyu Gong, Yang You, Min Gan, Zhongjie Wang: KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning. IEEE Trans. Neural Networks Learn. Syst. 36(2): 2789-2800 (2025)
+165. \[*Feature Selection*\] Wenbin Qian, Junqi Li, Xinxin Cai, Jintao Huang, Weiping Ding: Granular ball-based partial label feature selection via fuzzy correlation and redundancy. Inf. Sci. 709: 122047 (2025)
+166. \[*Feature Selection*\] Junqi Li, Wenbin Qian, Wenji Yang, Suxuan Liu, Jintao Huang: Fuzzy neighborhood-based partial label feature selection via label iterative disambiguation. Int. J. Approx. Reason. 179: 109358 (2025)
+167. \[*Imbalanced/Long-tailed PLL*\] Zhenbing Liu, Zhaoyuan Zhang, Haoxiang Lu, Wenhao Wang: Addressing bayes imbalance in partial label learning via range adaptive graph guided disambiguation. Neurocomputing 627: 129606 (2025)
+168. \[*Deep PLL*\] Guangtai Wang, Jintao Huang, Yiqiang Lai, Chi-Man Vong: Dealing with partial labels by knowledge distillation. Pattern Recognit. 158: 110965 (2025)
+169. Xiaotong Yu, Shiding Sun, Yingjie Tian: Sample selection for noisy partial label learning with interactive contrastive learning. Pattern Recognit. 166: 111681 (2025)
+170. \[*Deep PLL*\] Beibei Li, Yiyuan Zheng, Beihong Jin, Tao Xiang, Haobo Wang, Lei Feng: AsyCo: an asymmetric dual-task co-training model for partial-label learning. Sci. China Inf. Sci. 68(5) (2025)
+171. \[*Deep PLL*\] \[*Meta Strategy*\] Xiuwen Gong, Nitin Bisht, Guandong Xu: Conformal Prediction for Partial Label Learning. AAAI 2025: 16862-16870
+172. \[*Multi-view PLL*\]Qiuru Hai, Yongjian Deng, Yuena Lin, Zheng Li, Zhen Yang, Gengyu Lyu: CFDM: Contrastive Fusion and Disambiguation for Multi-View Partial-Label Learning. AAAI 2025: 17005-17013
+173. \[*Imbalanced/Long-tailed PLL*\] Jintao Huang, Yiu-ming Cheung, Chi-Man Vong, Wenbin Qian: GBRIP: Granular Ball Representation for Imbalanced Partial Label Learning. AAAI 2025: 17431-17439
+174. \[*Instance-Dependent PLL*\] Yizhi Wang, Weijia Zhang, Min-Ling Zhang: Partial Label Causal Representation Learning for Instance-Dependent Supervision and Domain Generalization. AAAI 2025: 21366-21374
+175. \[*Multi-instance PLL*\] Yin-Fang Yang, Wei Tang, Min-Ling Zhang: Fast Multi-Instance Partial-Label Learning. AAAI 2025: 22038-22046
+176. \[*General/Unreliable PLL*\] Xiaorui Peng, Yuheng Jia, Fuchao Yang, Ran Wang, Min-Ling Zhang: Noise Separation guided Candidate Label Reconstruction for Noisy Partial Label Learning. ICLR 2025
+177. \[*Deep PLL*\] \[*Empirical Study*\] Wei Wang, Dong-Dong Wu, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama: Realistic Evaluation of Deep Partial-Label Learning Algorithms. ICLR 2025
+178. \[*Instance-Dependent PLL*\] Fuchao Yang, Jianhong Cheng, Hui Liu, Yongqiang Dong, Yuheng Jia, Junhui Hou: Mixed Blessing: Class-Wise Embedding guided Instance-Dependent Partial Label Learning. KDD (1) 2025: 1763-1772
